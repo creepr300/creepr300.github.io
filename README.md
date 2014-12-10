@@ -1,4 +1,4 @@
 creepr300.github.io
 ===================
 
-GEO Projekt
+Das GEO-Projekt der 7N des Helmholtz-Gymnasiums
