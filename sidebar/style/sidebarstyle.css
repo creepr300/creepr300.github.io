@@ -1,0 +1,43 @@
+body
+{
+	background-image:url(img/bgimg.gif);
+}
+#title
+{
+	position:absolute;
+	top:-14%;
+	font-size:100px;
+	font-family:Chiller;
+	display:inline;
+	color:#FFFFFF;
+    border: 2px solid #a1a1a1;
+    padding: 10px 10px; 
+    background: #dddddd;
+    width: 160px;
+    border-radius: 25px;
+}
+#home
+{
+	position:absolute;
+	top:20.5%;
+}
+#boerse
+{
+	position:absolute;
+	top:45%;
+}
+#link1
+{
+	font-size:100%;
+	font-family:Impact;
+}
+#stats
+{
+	position:absolute;
+	top:75%;
+}
+#p:stats
+{
+	font-size:100%;
+	font-family:Impact;
+}
